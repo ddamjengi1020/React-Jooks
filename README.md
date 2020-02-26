@@ -6,7 +6,7 @@ _build React-Hooks & upload to npm directory_
 ---------------------------------------------
 
 <center>title</center>|<center>complete</center>
-----------------------|--------------------------
+|---------------------|-------------------------|
 useTitle|<center>❌</center>
 useInput|<center>❌</center>
 usePageLeave|<center>❌</center>
