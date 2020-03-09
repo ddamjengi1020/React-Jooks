@@ -1,0 +1,25 @@
+{
+  "name": "@junooks/use-title",
+  "version": "1.0.0",
+  "description": "build React-hooks and upload to npm package",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ddamjengi1020/React-Jooks.git"
+  },
+  "keywords": [
+    "react",
+    "react-hooks",
+    "hook",
+    "title"
+  ],
+  "author": "juno lee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ddamjengi1020/React-Jooks/issues"
+  },
+  "peerDependencies": {
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0"
+  }
+}
